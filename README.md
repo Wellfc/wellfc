@@ -38,8 +38,8 @@ Let's make technology work for us!
 
 ## Contact me:
 <p align="left">
-  <a href="https://twitter.com/wellsuero" target="blank"><img align="center" src="./assets/twitter.svg" alt="wellsuero" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/wellington-suero-2997a521b" target="blank"><img align="center" src="./assets/linked-in-alt.svg" alt="wellington-suero-2997a521b" height="30" width="40" /></a>
+  <a href="https://twitter.com/wellsuero" target="blank"><img align="center" src="./assets/twitter.svg" alt="wellsuero" height="30" width="40" /></a>
   <a href="https://instagram.com/well.suero" target="blank"><img align="center" src="./assets/instagram.svg" alt="well.suero" height="30" width="40" /></a>
 </p>
 
@@ -48,11 +48,13 @@ Let's make technology work for us!
 - HTML5
 - CSS
 - JavaScript
-- Adobe Photoshop
+- React
+- C#
+- Git, GitHub
 - Microsoft SQL Server
 - Windows, Linux (Basic)
 - MS Office (Word, Excel, Power Point)
-- Git, GitHub
+- Adobe Photoshop
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
@@ -86,4 +88,4 @@ Let's make technology work for us!
 
 ##
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wellfc&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wellfc&theme=gotham&hide_border=true&color=222ce2&line=00fb3f&point=fff1cf&text=fff1cf)](https://github.com/ashutosh00710/github-readme-activity-graph)
